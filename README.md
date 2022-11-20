@@ -1,7 +1,7 @@
 # Termux/Linux Binary Screen
 
 ## Usage
-- git clone https://github.com/Hydrogen-27/Binary.git
+- git clone https://github.com/Hydrogen-27/Binary-Screen.git
 - cd Binary
 - python3 Binary.py
 
