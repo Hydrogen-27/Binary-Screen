@@ -2,8 +2,8 @@
 
 ## Usage
 - git clone https://github.com/Hydrogen-27/Binary-Screen.git
-- cd Binary
-- python3 Binary.py
+- cd Binary-Screen
+- python3 Binary Screen.py
 
 ## Info
 
