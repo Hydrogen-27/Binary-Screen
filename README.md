@@ -1,6 +1,18 @@
-# Binary
+# Termux/Linux Binary Screen
 
+## Usage
+- git clone https://github.com/Hydrogen-27/Binary.git
+- cd Binary
+- python3 Binary.py
 
 ## Info
 
-To stop the Binary Use CTRL + C to Stop!
+- Select the Number for the Binary Screen to have Color! 
+
+- To Stop the Binary Screen use CTRL + C to Stop!
+
+- Enjoy!
+
+# Updates
+
+- I update the Binary Screen every Month.
