@@ -4,9 +4,7 @@
 - git clone https://github.com/Hydrogen-27/Binary-Screen.git
 - cd Binary-Screen
 - python3 Binary Screen.py
-
-## Info
-
+- Enter you Name/Any Name
 - Select the Number for the Binary Screen to have Color! 
 
 - To Stop the Binary Screen use CTRL + C to Stop!
