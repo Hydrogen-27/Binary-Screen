@@ -3,7 +3,7 @@
 ## Usage
 - git clone https://github.com/Hydrogen-27/Binary-Screen.git
 - cd Binary-Screen
-- python3 Binary Screen.py
+- python3 Binary.py
 - Enter you Name/Any Name
 - Select the Number for the Binary Screen to have Color! 
 
@@ -13,4 +13,4 @@
 
 # Updates
 
-- I update the Binary Screen every Month.
+- I Will Update the Binary Screen Soon
