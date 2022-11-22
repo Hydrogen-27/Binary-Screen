@@ -1,4 +1,4 @@
-# Termux/Linux Binary Screen
+# Binary Screen
 
 ## Usage
 - git clone https://github.com/Hydrogen-27/Binary-Screen.git
